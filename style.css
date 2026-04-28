@@ -1,0 +1,50 @@
+
+body{
+ background-color: antiquewhite;
+
+}
+
+
+
+h1{
+text-align: center;
+}
+
+
+img{
+height: 200px;
+width: 200px;
+}
+#profile {
+  width: 300px;
+}
+
+
+
+.color-title{
+font-weight: normal
+
+}
+
+#red{
+  background-color: black;
+  color:red
+  
+  
+}
+#blue{
+  background-color: black;
+  color:blue
+}
+#orange{
+  background-color: black;
+  color:orange
+}
+#green{
+  background-color: black;
+  color:green
+}
+#yellow{
+  background-color: black;
+  color:yellow
+}
